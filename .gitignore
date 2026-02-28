@@ -1,0 +1,39 @@
+# Git ignore rules for NLP4KGC Website
+
+# OS Files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# IDE
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+*.code-workspace
+
+# Node (if ever needed for builds)
+node_modules/
+npm-debug.log
+yarn-error.log
+package-lock.json
+yarn.lock
+
+# Build outputs (if ever added)
+dist/
+build/
+.env
+.env.local
+
+# Backup files
+*.bak
+*.backup
+*.tmp
+
+# Logs
+*.log
+
+# Dependencies
+vendor/
