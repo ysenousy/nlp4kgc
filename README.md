@@ -1,10 +1,10 @@
-# 4th NLP4KGC Workshop Website
+# 5th NLP4KGC Workshop Website
 
-A modern, responsive website for the 4th Natural Language Processing for Knowledge Graph Construction (NLP4KGC) workshop.
+A modern, responsive website for the 5th Natural Language Processing for Knowledge Graph Construction (NLP4KGC) workshop at ISWC 2026.
 
 ## 📋 Overview
 
-The 4th NLP4KGC workshop is scheduled for **April 28, 2026** at **Room C4.10, ICC Sydney, Australia** from **13:30 to 17:00 (AEDT)**.
+The 5th NLP4KGC workshop is scheduled for **October 25-26, 2026** at **The Nicolaus Hotel, Bari, Italy** as part of **ISWC 2026** (25th International Semantic Web Conference).
 
 This repository contains a complete, modern HTML/CSS/JavaScript website built from scratch to replace the legacy Google Sites implementation.
 
@@ -172,5 +172,5 @@ This website is provided for the NLP4KGC Workshop. If you use parts of this desi
 
 ---
 
-**Last Updated**: February 28, 2026  
-**Build Status**: ✅ Complete and Ready for Deployment
+**Last Updated**: March 1, 2026  
+**Build Status**: ✅ Updated for ISWC 2026 • Ready for Deployment
