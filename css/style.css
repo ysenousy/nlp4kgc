@@ -25,7 +25,7 @@ a:hover {
 
 /* Hero Section */
 .hero-section {
-    background: linear-gradient(135deg, rgba(0, 102, 204, 0.5) 0%, rgba(74, 45, 140, 0.5) 100%), url('../images/Building-of-Birmingham-City-University.jpeg') center/cover;
+    background: linear-gradient(135deg, rgba(0, 102, 204, 0.5) 0%, rgba(74, 45, 140, 0.5) 100%), url('../images/nlp-header.gif') center/cover;
     background-attachment: fixed;
     color: white;
     position: relative;
